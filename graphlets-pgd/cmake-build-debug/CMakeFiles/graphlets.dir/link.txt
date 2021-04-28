@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/graphlets.dir/graphlets.cpp.o  -o graphlets.exe -Wl,--out-implib,libgraphlets.dll.a -Wl,--major-image-version,0,--minor-image-version,0 /usr/lib/gcc/x86_64-pc-cygwin/9.3.0/libgomp.dll.a 
