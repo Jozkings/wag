@@ -59,10 +59,9 @@ Grafové štatistiky, ktoré aplikácia dokáže vypočítať:
 - priemerná najkratšia vzdialenosť grafu
 - priemer grafu
 
-Grafletové štatistiky, ktorá aplikácia dokáža vypočítať:
+Grafletové štatistiky, ktorá aplikácia dokáže vypočítať:
 - počet súvislých grafletov veľkosti 2-5
 - počet nesúvislých grafletov veľkosti 2-4
-- RGFD analýza
 - GDDA analýza
 
 Okrem toho možno vypočítať rôzne distribúcie a štatistiky vrcholov. Využitie: zisťovanie bezškálovosti siete, porovnávanie syntaktických slovných sietí dvoch textov, porovnávanie vlastností syntaktickej slovnej siete a náhodného grafu.
