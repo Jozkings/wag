@@ -10,7 +10,7 @@ The application is primarily intended for the Windows operating system. The libr
 
 In addition, it uses its own implementation of the pseudocode of the PGD algorithm and the implementation of the ORCA algorithm. Both algorithms are freely available and described here:
 - PGD: http://nesreenahmed.com/publications/ahmed-et-al-icdm2015.pdf
-- ORCA: tinyurl.com/3hcnj27n
+- ORCA: https://academic.oup.com/bioinformatics/article/30/4/559/205331
 
 Graph statistics that the application can calculate:
 - number of nodes
